@@ -150,8 +150,8 @@ MonoBehaviour:
   whatIsGroundNoJump:
     serializedVersion: 2
     m_Bits: 8448
-  jumpForce: 10
-  jumpTime: 0.3
+  jumpForce: 7
+  jumpTime: 0.5
   jumpdownTime: 0.25
   isAlive: 1
   effect: {fileID: 394799596419166366, guid: 3395ed8d746d19a46a4bc381bef8d3c9, type: 3}
